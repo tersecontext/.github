@@ -8,6 +8,10 @@ user request → breakdown → fracture → beads → whittler → working code 
 
 A human submits a feature request. **Breakdown** researches it against your codebase. **Fracture** decomposes the approved work into dependency-ordered tasks. **Beads** tracks the tasks. **Whittler** picks them up, runs Claude Code agents in isolated containers, and lands the results. **TerseContext** is the code-intelligence layer that powers the research and decomposition steps.
 
+![Pipeline overview](https://raw.githubusercontent.com/tersecontext/tersecontext/main/docs/images/overview.svg)
+
+![TerseContext web UI](https://raw.githubusercontent.com/tersecontext/tersecontext/main/docs/images/webui.png)
+
 ## Repos
 
 | Repo | What it does | Status |
