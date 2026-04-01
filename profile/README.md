@@ -23,7 +23,7 @@ A human submits a feature request. **Breakdown** researches it against your code
 
 ## Start Here
 
-**New to the project?** See [CONTRIBUTING.md](./CONTRIBUTING.md) for system prerequisites and step-by-step setup.
+**New to the project?** See [CONTRIBUTING.md](../CONTRIBUTING.md) for system prerequisites and step-by-step setup.
 
 **Just want to explore the code intelligence layer?** Start with [tersecontext](https://github.com/tersecontext/tersecontext) — it's self-contained:
 
@@ -34,7 +34,7 @@ make up
 make demo              # see it working in ~5 minutes
 ```
 
-**Want the full pipeline?** Start with TerseContext, then bring up Breakdown, Fracture, and Whittler in that order. See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full startup sequence.
+**Want the full pipeline?** Start with TerseContext, then bring up Breakdown, Fracture, and Whittler in that order. See [CONTRIBUTING.md](../CONTRIBUTING.md) for the full startup sequence.
 
 ## The `bd` CLI (beads)
 
